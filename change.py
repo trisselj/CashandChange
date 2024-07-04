@@ -1,6 +1,6 @@
 # Author: Jake Trissel
 # Github Username: trisselj
-# Date: 06/26/2024
+# Date: 07/03/2024
 # Description: Outputs how many of each type of coin would represent that amount with the fewest total number of coins.
 
 # Giving values to change
